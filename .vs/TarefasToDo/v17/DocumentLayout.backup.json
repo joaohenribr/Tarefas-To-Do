@@ -1,37 +1,12 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Estudos\\ASP.NET\\TarefasToDo\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{3C4C15B4-EA38-46BD-BD80-58B5FA0C30C2}|TarefasToDo\\TarefasToDo.csproj|c:\\estudos\\asp.net\\tarefastodo\\tarefastodo\\data\\sistematarefasdbcontex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3C4C15B4-EA38-46BD-BD80-58B5FA0C30C2}|TarefasToDo\\TarefasToDo.csproj|solutionrelative:tarefastodo\\data\\sistematarefasdbcontex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": [
-        {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 0,
-          "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "SistemaTarefasDBContex.cs",
-              "DocumentMoniker": "C:\\Estudos\\ASP.NET\\TarefasToDo\\TarefasToDo\\Data\\SistemaTarefasDBContex.cs",
-              "RelativeDocumentMoniker": "TarefasToDo\\Data\\SistemaTarefasDBContex.cs",
-              "ToolTip": "C:\\Estudos\\ASP.NET\\TarefasToDo\\TarefasToDo\\Data\\SistemaTarefasDBContex.cs",
-              "RelativeToolTip": "TarefasToDo\\Data\\SistemaTarefasDBContex.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAtwBEAAAAvAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-04T18:16:42.192Z",
-              "EditorCaption": ""
-            }
-          ]
-        }
-      ]
+      "DocumentGroups": []
     }
   ]
 }
