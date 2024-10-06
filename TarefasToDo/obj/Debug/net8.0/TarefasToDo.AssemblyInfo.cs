@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TarefasToDo")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0b40ee488b1efa2a2ab2687d25cb6d4a64dd0d8c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d2fc4af9d189eaf6b4bfc1089c89be170328f50f")]
 [assembly: System.Reflection.AssemblyProductAttribute("TarefasToDo")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TarefasToDo")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
