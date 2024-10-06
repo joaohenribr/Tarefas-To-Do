@@ -14,7 +14,8 @@ namespace TarefasToDo.Models
         public DateTime? CreatedAt { get; set; }
         public DateTime? UpdatedAt { get; set; }
         [ForeignKey("UserId")]
-        public int UserId { get; set; }
+        public int? UsernameId { get; set; }
+        public virtual UsuarioModel? Username { get; set; }
 
     }
 }

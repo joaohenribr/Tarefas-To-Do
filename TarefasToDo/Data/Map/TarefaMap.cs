@@ -15,7 +15,9 @@ namespace TarefasToDo.Data.Map
             builder.Property(x => x.Category).IsRequired().HasMaxLength(1000);
             builder.Property(x => x.CreatedAt);
             builder.Property(x => x.UpdatedAt);
-            builder.Property(x => x.UserId);
+            builder.Property(x => x.UsernameId);
+
+            builder.HasOne(x => x.Username);
 
         }
     }
