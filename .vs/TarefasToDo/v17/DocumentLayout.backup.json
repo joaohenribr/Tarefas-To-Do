@@ -3,16 +3,8 @@
   "WorkspaceRootPath": "C:\\Estudos\\ASP.NET\\TarefasToDo\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3C4C15B4-EA38-46BD-BD80-58B5FA0C30C2}|TarefasToDo\\TarefasToDo.csproj|c:\\estudos\\asp.net\\tarefastodo\\tarefastodo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{3C4C15B4-EA38-46BD-BD80-58B5FA0C30C2}|TarefasToDo\\TarefasToDo.csproj|solutionrelative:tarefastodo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3C4C15B4-EA38-46BD-BD80-58B5FA0C30C2}|TarefasToDo\\TarefasToDo.csproj|c:\\estudos\\asp.net\\tarefastodo\\tarefastodo\\data\\map\\usuariomap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3C4C15B4-EA38-46BD-BD80-58B5FA0C30C2}|TarefasToDo\\TarefasToDo.csproj|solutionrelative:tarefastodo\\data\\map\\usuariomap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3C4C15B4-EA38-46BD-BD80-58B5FA0C30C2}|TarefasToDo\\TarefasToDo.csproj|c:\\estudos\\asp.net\\tarefastodo\\tarefastodo\\data\\sistematarefasdbcontex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3C4C15B4-EA38-46BD-BD80-58B5FA0C30C2}|TarefasToDo\\TarefasToDo.csproj|solutionrelative:tarefastodo\\data\\sistematarefasdbcontex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3C4C15B4-EA38-46BD-BD80-58B5FA0C30C2}|TarefasToDo\\TarefasToDo.csproj|c:\\estudos\\asp.net\\tarefastodo\\tarefastodo\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C4C15B4-EA38-46BD-BD80-58B5FA0C30C2}|TarefasToDo\\TarefasToDo.csproj|solutionrelative:tarefastodo\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -31,40 +23,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Estudos\\ASP.NET\\TarefasToDo\\TarefasToDo\\appsettings.json",
-              "RelativeDocumentMoniker": "TarefasToDo\\appsettings.json",
-              "ToolTip": "C:\\Estudos\\ASP.NET\\TarefasToDo\\TarefasToDo\\appsettings.json",
-              "RelativeToolTip": "TarefasToDo\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-10-06T16:37:55.876Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "SistemaTarefasDBContex.cs",
-              "DocumentMoniker": "C:\\Estudos\\ASP.NET\\TarefasToDo\\TarefasToDo\\Data\\SistemaTarefasDBContex.cs",
-              "RelativeDocumentMoniker": "TarefasToDo\\Data\\SistemaTarefasDBContex.cs",
-              "ToolTip": "C:\\Estudos\\ASP.NET\\TarefasToDo\\TarefasToDo\\Data\\SistemaTarefasDBContex.cs",
-              "RelativeToolTip": "TarefasToDo\\Data\\SistemaTarefasDBContex.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAVAAAAAAAAAA==",
+              "Title": "UsuarioController.cs",
+              "DocumentMoniker": "C:\\Estudos\\ASP.NET\\TarefasToDo\\TarefasToDo\\Controllers\\UsuarioController.cs",
+              "RelativeDocumentMoniker": "TarefasToDo\\Controllers\\UsuarioController.cs",
+              "ToolTip": "C:\\Estudos\\ASP.NET\\TarefasToDo\\TarefasToDo\\Controllers\\UsuarioController.cs",
+              "RelativeToolTip": "TarefasToDo\\Controllers\\UsuarioController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAmwCIAAABVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-06T16:06:05.218Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "UsuarioMap.cs",
-              "DocumentMoniker": "C:\\Estudos\\ASP.NET\\TarefasToDo\\TarefasToDo\\Data\\Map\\UsuarioMap.cs",
-              "RelativeDocumentMoniker": "TarefasToDo\\Data\\Map\\UsuarioMap.cs",
-              "ToolTip": "C:\\Estudos\\ASP.NET\\TarefasToDo\\TarefasToDo\\Data\\Map\\UsuarioMap.cs",
-              "RelativeToolTip": "TarefasToDo\\Data\\Map\\UsuarioMap.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-06T16:06:04.221Z",
+              "WhenOpened": "2024-10-06T17:02:59.218Z",
               "EditorCaption": ""
             }
           ]
