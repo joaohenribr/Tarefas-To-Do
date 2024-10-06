@@ -1,4 +1,5 @@
 ﻿using Microsoft.EntityFrameworkCore;
+using TarefasToDo.Data.Map;
 using TarefasToDo.Models;
 
 namespace TarefasToDo.Data
@@ -15,6 +16,9 @@ namespace TarefasToDo.Data
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
+            modelBuilder.ApplyConfiguration(new UsuarioMap());
+            modelBuilder.ApplyConfiguration(new TarefaMap());
+
             base.OnModelCreating(modelBuilder);
         }
     }
